@@ -5,10 +5,10 @@ def task_input():
 
     priority = input("Enter the priority of task: ")
     task = input("Enter the task: ")
-    password_storage(task, priority)
+    save_tasks(task, priority)
 
 # saving the tasks
-def password_storage(task,priority):
+def save_tasks(task,priority):
 
     with open("tasks.txt", "a") as file:
         file.write(f"Priority {priority}: {task}\n")
@@ -50,7 +50,7 @@ def application_home():
         choice = input("Please choose an option (1-4): ")       #the user is prompted to choose an option
         
         if choice == '1':
-            # Store a password
+            # Add a Task
             task_input()
 
         elif choice == '2':
