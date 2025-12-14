@@ -1,0 +1,10 @@
+Task Manager CLI v1.01 Beta (14 December 2025):
+
+Features Added
+    - Text-Based Application
+    - Add Task with their priority
+    - View your Tasks
+
+Features Coming Soon
+    - Mark Completed Task
+    - Edit and Delete the Tasks
