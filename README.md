@@ -3,7 +3,7 @@
 A simple **Command-Line Interface (CLI) Task Manager** built using the Python programming language.  
 This project allows users to add tasks with priorities and view them directly from the terminal.
 
-This application is currently in **Beta v1.01** and is designed as a beginner-friendly Python project.
+This application is currently in **Beta v2.10 (Updated)** and is designed as a beginner-friendly Python project.
 
 ---
 
@@ -13,12 +13,12 @@ This application is currently in **Beta v1.01** and is designed as a beginner-fr
 - Store tasks locally in a text file
 - View all saved tasks
 - Menu-driven interface for easy navigation
+- Edit existing tasks
+- Delete tasks
 
 ---
 
 ## Features in Development
-- Edit existing tasks
-- Delete tasks
 - Mark tasks as completed
 
 ---
@@ -37,7 +37,7 @@ This application is currently in **Beta v1.01** and is designed as a beginner-fr
 
    * Add new tasks
    * View saved tasks
-   * Edit/Delete tasks (coming soon)
+   * Edit/Delete tasks (added in latest version)
    * Exit the application
 3. Tasks are saved automatically in a text file for persistence.
 
@@ -47,6 +47,9 @@ This application is currently in **Beta v1.01** and is designed as a beginner-fr
 
 **Task Manager CLI v1.01 (Beta)**
 📅 Released: 14 December 2025
+
+**Task Manager CLI v2.10 (Beta)**
+📅 Updated: 15 December 2025
 
 See `Changelog.txt` for detailed updates.
 

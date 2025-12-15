@@ -1,3 +1,15 @@
+Task Manager CLI v2.10 Beta (15 December 2025):
+
+Features Added
+    - A new Task Management menu
+    - Edit and Delete saved Tasks
+    - Menu is now more clear
+
+Features Coming Soon
+    - Mark Completed Task
+
+
+
 Task Manager CLI v1.01 Beta (14 December 2025):
 
 Features Added
