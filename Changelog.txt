@@ -1,4 +1,4 @@
-Task Manager CLI v2.10 Beta (15 December 2025):
+Task Manager CLI v1.0.0 (15 December 2025):
 
 Features Added
     - A new Task Management menu
@@ -10,7 +10,7 @@ Features Coming Soon
 
 
 
-Task Manager CLI v1.01 Beta (14 December 2025):
+Task Manager CLI v0.1.0-alpha (14 December 2025):
 
 Features Added
     - Text-Based Application

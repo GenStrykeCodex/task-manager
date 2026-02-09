@@ -1,5 +1,4 @@
-# start building task manager cli version 1.01
-print("Welcome to the Task Manager Beta 2.10!")
+print("Welcome to the Task Manager!")
 
 # taking task input
 def task_input():
